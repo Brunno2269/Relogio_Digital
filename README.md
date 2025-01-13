@@ -10,7 +10,7 @@ Este é um relógio futurista criado com HTML, CSS e Python (Flask). Ele exibe a
 4. Acesse `http://127.0.0.1:5000` no navegador.
 
 ## Tecnologias usadas
-- Python (Flask)
-- HTML
-- CSS
-- JavaScript
+- **Python** (Flask)
+- **HTML**
+- **CSS**
+- **JavaScript**
