@@ -1,3 +1,4 @@
+![Captura de tela de 2025-01-13 16-41-37](https://github.com/user-attachments/assets/937dad62-a857-458f-9b79-ca8139326e03)
 # Relógio Futurista
 
 Este é um relógio futurista criado com HTML, CSS e Python (Flask). Ele exibe a hora atual com um visual moderno.
